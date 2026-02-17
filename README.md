@@ -200,27 +200,6 @@ Neuro-Probe is part of the **Neuro-OS ecosystem**, a set of tools designed to:
 
 Neuro-Probe is the **official tool** for validating kernels across multiple emulators.
 
----
-
-## 🧭 Roadmap
-
-### Week 1
-- Complete Bochs support
-- Advanced HTML reporter
-- Screenshot comparison
-
-### Month 1
-- Integration into Neuro-IDE
-- "Launch GUI" button from CLI
-- Real hardware support
-
-### Month 3
-- Active community
-- 1,000 GitHub stars
-- Publication on OSDev Wiki
-- Conference presentations
-
----
 
 ## 🏆 Why Neuro-Probe is Revolutionary
 
