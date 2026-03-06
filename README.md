@@ -491,7 +491,7 @@ Es **visión**.
 
 ## 📞 Contact / Contacto
 
-**Author / Autor:** José Manuel Moreno Cano  
+**Author / Autor:** José Manuel 
 **Project / Proyecto:** Neuro-OS Genesis  
 **GitHub:** [Coming Soon / Próximamente]
 
