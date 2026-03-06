@@ -218,7 +218,7 @@ Neuro-Probe is the **official tool** for validating kernels across multiple emul
 
 ## 🎉 License
 
-Open Source.  
+Open Source, GPL-3.  
 Use it, modify it, share it.  
 Knowledge is for everyone.
 
