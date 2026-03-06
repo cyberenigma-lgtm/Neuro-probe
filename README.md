@@ -469,7 +469,7 @@ Neuro-Probe es la **herramienta oficial** para validar kernels en múltiples emu
 
 ## 🎉 Licencia
 
-Código Abierto.  
+Código Abierto, GPL-3. 
 Úsalo, modifícalo, compártelo.  
 El conocimiento es para todos.
 
